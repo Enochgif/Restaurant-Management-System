@@ -1,7 +1,4 @@
-"""import random
-random_number = random.randint(1,20)
-print(random_number)
-"""
+
 from functools import total_ordering
 from pyclbr import Class
 from tkinter import Menu
